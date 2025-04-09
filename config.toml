@@ -1,4 +1,4 @@
-baseURL = "https://yourusername.github.io/hugo-site/"
-languageCode = "en-us"
-title = "My Hugo Site"
+baseURL = "https://getjobz.github.io/"
+languageCode = "en-gb"
+title = "Get JOBZ"
 theme = "ananke"
