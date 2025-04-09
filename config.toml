@@ -1,4 +1,7 @@
 baseURL = "https://getjobz.github.io/"
 languageCode = "en-gb"
-title = "Get JOBZ"
+title = "JOBZ"
 theme = "ananke"
+
+[params]
+  custom_css = ["css/homepage.css"]
